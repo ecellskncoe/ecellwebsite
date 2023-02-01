@@ -1650,7 +1650,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 20px;
 }
 #team .our-team .title {
-  font-size: 22px;
+  font-size: 15px;
   font-weight: 700;
   letter-spacing: 2px;
   color: #047168;
@@ -1659,7 +1659,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 #team .our-team .post {
   display: block;
-  font-size: 17px;
+  font-size: 14px;
   font-weight: 600;
   color: #707070;
   text-transform: capitalize;
