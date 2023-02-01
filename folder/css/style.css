@@ -251,7 +251,10 @@ h6 {
   justify-content: center;
   border-radius: 5px;
   /* margin: 0 auto; */
-  padding-right: 35px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom : 10px;
 }
 .carousel-item ul {
   text-decoration: none;
