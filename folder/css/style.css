@@ -2013,3 +2013,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     display: inline;
   }
 }
+h5{
+  font-size: 1rem;
+}
+
