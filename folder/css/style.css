@@ -2052,4 +2052,7 @@ h5{
   .Register1{height: 30px;
     font-size: 10px;
   width: 100px;}
+   .Register1:hover{
+    font-size: small;
+  }
 }
