@@ -2048,11 +2048,4 @@ h5{
   color: rgb(255, 253, 253);
   font-size: large;
 }
-@media (max-width:853px){
-  .Register1{height: 30px;
-    font-size: 10px;
-  width: 100px;}
-   .Register1:hover{
-    font-size: small;
-  }
-}
+
